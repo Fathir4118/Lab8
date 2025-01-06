@@ -10,7 +10,7 @@ Matkul: Bahasa Pemrograman
 
 # Tugas Praktikum
 
-![gambar](https://github.com/andreanbadeh/Lab-8/blob/6141c6755f7448e4dd928e0b84d74815edfd8df9/Images/Screenshot%202024-12-08%20075910.png)
+![gambar](https://github.com/Fathir4118/Lab8/blob/main/Gambar/Screenshot%202024-12-08%20075910.png)
 
 # Lab81.py
 ```python
@@ -80,6 +80,11 @@ while True:
     else:
         print("Pilihan tidak valid.")
 ```
+
+# Hasil program
+![gambar](https://github.com/Fathir4118/Lab8/blob/main/Gambar/Screenshot_20250106_111054.jpg)
+
+
 # Code Penjelasan
 1. `DaftarNilaiMahasiswa` adalah kelas yang mengelola daftar mahasiswa. Kelas ini memiliki metode untuk menambah, mengubah, menghapus, dan menampilkan daftar nilai mahasiswa.
 2.  Method `tambah(self, nama, nilai)` Menambahkan data mahasiswa baru ke dalam daftar.
@@ -101,4 +106,4 @@ Diagram Class Tersebut :
 
 Dan Ini Flowchart : 
 
-![gambar](https://github.com/andreanbadeh/Lab-8/blob/d23adec296d1bd226c228ebba55416ebc5b01b21/Images/flowchart_mahasiswa.png)
+![gambar](https://github.com/Fathir4118/Lab8/blob/main/Gambar/flowchart_mahasiswa.png)
