@@ -102,7 +102,7 @@ Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 
 Diagram Class Tersebut :
 
-![gambar](https://github.com/Fathir4118/Lab8/blob/main/Gambar/Screenshot%20from%202024-12-08%2020-29-58.png-29-58.png)
+![gambar](https://github.com/Fathir4118/Lab8/blob/main/Gambar/Screenshot%20from%202024-12-08%2020-29-58.png)
 
 Dan Ini Flowchart : 
 
